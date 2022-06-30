@@ -1,0 +1,156 @@
+.job-item-container {
+  background-color: #000000;
+  padding: 20px;
+}
+.job-item {
+  background-color: #272727;
+  margin: 10px;
+  padding: 5px;
+  padding-bottom: 25px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 8px;
+}
+.logo-img1 {
+  width: 45px;
+}
+.star-rating {
+  display: flex;
+}
+.title {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.title-section {
+  display: flex;
+  height: 60px;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 0px;
+}
+.name-title {
+  margin: 10px;
+}
+.location-sa {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0px;
+}
+.description {
+  color: #ffffff;
+  font-size: 12px;
+  font-family: 'Roboto';
+}
+.line {
+  color: #b6c5ff;
+  margin-top: 0px;
+}
+.location-icon {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.rating {
+  color: #ffffff;
+  font-size: 10px;
+  margin-left: 5px;
+  margin-top: 0px;
+}
+.type {
+  color: #ffffff;
+  font-size: 10px;
+  margin: 15px;
+  margin-left: 10px;
+}
+.location-type {
+  display: flex;
+  margin-top: 0px;
+}
+.nav-lnk {
+  text-decoration: none;
+}
+.skill-image {
+  width: 45px;
+  height: 45px;
+}
+.skill-name {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+  margin: 10px;
+}
+.skill-item {
+  display: flex;
+  margin-right: 50px;
+}
+.skills-list {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.para {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto';
+  margin: 10px;
+}
+.life-at-company {
+  display: flex;
+}
+.location-img {
+  width: 200px;
+  height: 200px;
+}
+.similar-job-list {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-around;
+}
+.similar-title {
+  color: #ffffff;
+  font-size: 23px;
+  font-family: 'Roboto';
+  padding-left: 25px;
+}
+.visit {
+  text-decoration: none;
+}
+.visit-section {
+  display: flex;
+  justify-content: space-between;
+}
+.loader-container {
+  display: flex;
+  background-color: #000000;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.failure-heading {
+  color: #ffffff;
+  font-size: 35px;
+  font-family: 'Roboto';
+}
+.failure-para {
+  color: #ffffff;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
+.button {
+  background-color: #0967d2;
+  color: #ffffff;
+  padding: 10px;
+}
+.failure-image {
+  width: 350px;
+  height: 300px;
+}
+.failure-container {
+  display: flex;
+  height: 100vh;
+  background-color: #000000;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
