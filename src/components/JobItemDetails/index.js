@@ -222,9 +222,7 @@ class JobItemDetails extends Component {
     return (
       <div>
         <Header />
-        <div className="job-item-container" testid="loader">
-          {this.renderViews()}
-        </div>
+        <div className="job-item-container">{this.renderViews()}</div>
       </div>
     )
   }
